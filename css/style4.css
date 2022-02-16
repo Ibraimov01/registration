@@ -1,0 +1,125 @@
+.container3{
+    background-color: black;
+    width: 1400px;
+    height:1200px;
+}
+.table3{
+    position: absolute;
+    width: 664px;
+    height: 300px;
+    bottom: 300px;
+    left: 388px;
+    top: 248px;
+    background-color: white;
+}
+
+.kod{
+    font-family: Sora;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    justify-content: center;
+}
+.sms{
+    font-family: Sora;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #A9A9A9;
+    justify-content: center;
+}
+.table4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 34px;
+
+}
+.id1{
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    left: 612px;
+    top: 488px;
+    background: #FFFFFF;
+    border: 0.5px solid #DADADA;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin-left: 8px;
+    font-family: Sofia Pro;
+    font-size: 24px;
+    line-height: 24px;
+}
+.id2{
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    left: 668px;
+    top: 488px;
+    display: flex;
+    background: #FFFFFF;
+    border: 0.5px solid #DADADA;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin-left: 8px;
+    font-family: Sofia Pro;
+    font-size: 24px;
+    line-height: 24px;
+}
+.id3{
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    left: 724px;
+    top: 488px;
+    background: #FFFFFF;
+    border: 0.5px solid #DADADA;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin-left: 8px;
+    font-family: Sofia Pro;
+    font-size: 24px;
+    line-height: 24px;
+}
+.id4{
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    left: 780px;
+    top: 488px;
+    background: #FFFFFF;
+    border: 0.5px solid #DADADA;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin-left: 8px;
+    font-family: Sofia Pro;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.daleee{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 384px;
+    height: 48px;
+    left: 528px;
+    top: 736px;
+    background: #232529;
+    border-radius: 4px;
+    margin-left: 150px;
+    margin-top: 45px;
+}
+.dalee1{
+    text-decoration: none;
+    font-family: Sora;
+    font-size: 20px;
+    line-height: 25px;
+    margin-left: 0px;
+    margin-top: 12px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+}
+

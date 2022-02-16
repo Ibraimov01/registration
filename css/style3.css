@@ -1,0 +1,86 @@
+.container2{
+    background-color: black;
+    width: 1400px;
+    height:1200px;
+}
+.table2{
+    position: absolute;
+    width: 664px;
+    height: 253px;
+    bottom: 300px;
+    left: 388px;
+    top: 248px;
+    background-color: white;
+}
+
+.authorize{
+    position: absolute;
+    width: 256px;
+    height: 24px;
+    left: 288px;
+    top: 22px;
+    font-family: Sora;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.number{
+    position: absolute;
+    width: 198px;
+    height: 16px;
+    left: 19px;
+    top: 72px;
+    font-family: Sora;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.id{
+    position: absolute;
+    width: 608px;
+    height: 48px;
+    left: 17px;
+    top:111px;
+    font-family: Sora;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.25);
+    border: 0.5px solid #DADADA;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.dalee1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 384px;
+    height: 48px;
+    left: 528px;
+    top: 736px;
+    background: #232529;
+    border-radius: 4px;
+    margin-left: 150px;
+    margin-top: 170px;
+}
+.dalee{
+    text-decoration: none;
+    font-family: Sora;
+    font-size: 20px;
+    line-height: 25px;
+    margin-left: 0px;
+    margin-top: 12px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+}
+
+
+
+
